@@ -81,9 +81,7 @@ Refer to the **142_Opran_Andrei-proiect.docx** file for a detailed description o
 
 ![image](https://github.com/user-attachments/assets/3138d6c9-e85f-4bef-8687-5555360a708f)
 
-![diagrama coloane datagrip](https://github.com/AndreiFishe/Proiect-BD/assets/116067445/e7767df0-f614-4345-9bbc-cfe9b28582c8)
-
-These diagrams provide a visual representation of the database schema, showing the relationships between different tables.
+This diagram provides a visual representation of the database schema, showing the relationships between different tables.
 
 ---
 
